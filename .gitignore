@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+data/
+results/
+log_dir/
+model_params/
+test/
