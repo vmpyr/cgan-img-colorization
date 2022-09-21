@@ -61,4 +61,13 @@ Some planned ones are:
 **Feel free to drop suggestions or point out mistakes (if any) through GitHub issues.**
 
 ## Sample Results
-Currently cherry picking, will upload soon ;)
+Top Row: Black and White Input  
+Center Row: Generated Output  
+Bottom Row: Actual Color Image  
+1. Sample 1
+<p align="center"><img width="450" height="710" alt="Sample Result 1" src="./sample_results/sample_result_1.png"></p>
+2. Sample 2
+<p align="center"><img width="450" height="710" alt="Sample Result 2" src="./sample_results/sample_result_2.png"></p>
+3. Sample 3
+<p align="center"><img width="450" height="710" alt="Sample Result 3" src="./sample_results/sample_result_3.png"></p>
+
